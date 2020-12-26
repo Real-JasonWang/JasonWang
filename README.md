@@ -2,5 +2,4 @@
 
 Great to see you at here!
 
-## I am a student.
-## I am currently study in WHBC
+See more information about me in the website!

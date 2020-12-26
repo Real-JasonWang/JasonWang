@@ -1,9 +1,3 @@
-## Welcome To the Website of WHBC-201902
+## Welcome to My Homepage
 
-The members of the class include:
-
-1.Alica Dai
-
-2.Cherry Gu
-
-3.
+Great to see you at here!
